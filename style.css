@@ -1,0 +1,170 @@
+
+* {
+    background-color: rgb(240, 212, 247);
+    box-sizing: border-box;
+}
+nav {
+    color: white;
+    background-color: rgb(44, 173, 40);
+    padding: 50px;
+    text-align: right;
+}
+nav a{
+    color: white;
+    text-decoration: none;
+    font-family: Arial;
+    margin-right: 70px;
+    background-color: transparent;
+    
+}
+
+.itimage {
+    width: 100%;
+    height: 600px;
+}
+
+h1{
+    color: brown;
+    text-align: center;
+    font-size: 45px;
+    font-family: Helvetica;
+    background-color: rgb(230, 170, 81);
+    padding: 50px;
+
+}
+h2{
+    color: rgb(4, 54, 121);
+    text-align: left;
+
+}
+p{
+    width: 600px;
+    font-family: arial;
+    font-style: italic;
+    
+}
+
+.about-container {
+    width: 50%; /* Half of the webpage */
+    padding: 20px;
+    background-color: rgb(243, 236, 145); /* Background color of the text container */
+    text-align: center; /* Align text to the left */
+    margin-bottom: 20px;
+}
+
+.about-container h2, .about-container p {
+    background-color: rgb(243, 236, 145);
+}
+
+.about-container h2 {
+    font-family: Arial, sans-serif;
+    font-size: 2em;
+    margin-bottom: 20px;
+    color: rgb(85, 47, 4);
+    background-color: rgb(243, 236, 145);
+    text-align: center;
+}
+
+.about-container p {
+    line-height: 1.4;
+}
+
+.faculty-container {
+    width: 50%;
+    padding: 20px;
+    background-color: rgb(48, 206, 179);
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.faculty-container h2, .faculty-container p {
+    background-color: rgb(48, 206, 179);
+}
+
+.faculty-container h2 {
+    font-family: Arial, sans-serif;
+    font-size: 2em;
+    margin-bottom: 20px;
+    color: rgb(85, 47, 4);
+    background-color: rgb(48, 206, 179);
+    text-align: center;
+}
+
+.faculty-container p{
+    line-height: 1.4;
+}
+
+.course-container {
+    width: 50%;
+    padding: 20px;
+    background-color: rgb(228, 88, 135);
+    margin-bottom: 20px;
+}
+
+.course-container h2, .course-container p {
+    background-color: rgb(228, 88, 135);
+}
+
+.course-container h2 {
+    font-family: Arial, sans-serif;
+    font-size: 2em;
+    margin-bottom: 20px;
+    color: rgb(85, 47, 4);
+    background-color: rgb(228, 88, 135);
+    text-align: center;
+}
+
+.course-container p {
+    line-height: 1.4;
+    text-align: left;
+}
+
+.course-container ol {
+    background-color: rgb(228, 88, 135);
+}
+
+.course-container li {
+    background-color: rgb(228, 88, 135);
+}
+
+.images a {
+    margin-left: 300px;
+}
+
+.link-one {
+    margin-left: 350px;
+    font-size: 2em;
+    font-family: Arial, sans-serif;
+}
+
+.link-two {
+    margin-left: 400px;
+    font-size: 2em;
+    font-family: Arial, sans-serif;
+}
+
+.contact-container {
+    margin-top: 60px;
+    text-align: center;
+}
+
+.contact-container h2 {
+    font-family: Arial, sans-serif;
+    font-size: 2em;
+    margin-bottom: 20px;
+    color: black;
+    text-align: center;
+}
+
+.contact-container p {
+    line-height: 1.4;
+    text-align: center;
+    padding: 0;
+}
+
+.map iframe {
+    text-align: center;
+}
+
+
+
